@@ -62,4 +62,7 @@ height: 100vh;
     .dis{
         display: block;
     }
+    .dislg{
+        display: none;
+    }
   }
