@@ -46,6 +46,9 @@ height: 100vh;
 .dis{
     display: none;
 }
+.offcanvas-body ul li a{
+    color: var(--color-body);
+}
 .rtypewrite{ color:#fff; text-decoration: none;}
 @media only screen and (max-width: 993px) {
     .rmain{
