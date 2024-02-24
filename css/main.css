@@ -50,6 +50,17 @@ height: 100vh;
     color: var(--color-body);
 }
 .rtypewrite{ color:#fff; text-decoration: none;}
+i{
+    font-size: 50px;
+    margin-bottom: 15px;
+    color: #29bb89;
+}
+.card{
+   background-color: var(--color-base); 
+}
+.card p{
+    color: var(--color-body);
+}
 @media only screen and (max-width: 993px) {
     .rmain{
         /* background-color: black; */
